@@ -1,0 +1,13 @@
+[package]
+name = "mapping-viewer"
+version = "0.1.0"
+authors = ["Ossi Räisä <ossi.raisa@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+iced = "0.2"
+iced_native = "0.3"
+logos = "0.11"
+structopt = "0.3.21"
